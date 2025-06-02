@@ -1,3 +1,5 @@
+![Logo](./logo_c.png)
+
 # minecraft-ros2
 
 **Repositories for integrating Minecraft and ROS 2**
