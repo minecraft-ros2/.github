@@ -1,4 +1,4 @@
-![Logo](./logo_c.png)
+![Logo](./logo_ca.png)
 
 # minecraft-ros2
 
